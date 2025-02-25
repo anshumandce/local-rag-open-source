@@ -1,5 +1,7 @@
 ### Run a local rag pipeline from scratch
 
+![flow diagram](flow_diagram.png)
+
 Rundown of the steps:
 
 1. Take text from the pdf, use it
